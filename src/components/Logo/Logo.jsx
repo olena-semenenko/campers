@@ -2,7 +2,8 @@ const Logo = () => {
   return (
     <>
       <a href="/">
-        <svg
+        <img src="/src/img/Logo.svg" alt="Logo" />
+        {/* <svg
           width="136"
           height="16"
           viewBox="0 0 136 16"
@@ -54,7 +55,7 @@ const Logo = () => {
             d="M0 3.18182V0H12.642V3.18182H8.26705V14.5455H4.375V3.18182H0Z"
             fill="#101828"
           />
-        </svg>
+        </svg> */}
       </a>
     </>
   );
