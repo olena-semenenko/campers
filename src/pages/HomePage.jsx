@@ -1,6 +1,6 @@
 import Container from '../shared/Container/Container';
-import Hero from '../components/HomePage/Hero/Hero';
-import Header from '../components/HomePage/Header/Header';
+import Hero from '../components/Hero/Hero';
+import Header from '../components/Header/Header';
 const HomePage = () => {
   return (
     <Container>

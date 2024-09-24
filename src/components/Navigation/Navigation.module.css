@@ -1,6 +1,7 @@
 .link {
   color: var(--primary-black-color);
   font-weight: 500;
+  cursor: pointer;
 }
 .active {
   color: var(--button-color);

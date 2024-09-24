@@ -1,4 +1,4 @@
-import Section from '../../../shared/Section/Section';
+import Section from '../../shared/Section/Section';
 import css from './Hero.module.css';
 import { NavLink } from 'react-router-dom';
 

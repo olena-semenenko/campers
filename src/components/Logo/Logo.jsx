@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <>
-      <a href="/test-camper/">
+      <a href="/">
         <svg
           width="136"
           height="16"

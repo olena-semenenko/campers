@@ -34,6 +34,7 @@
   background-color: var(--button-color);
   color: var(-primary-background-color);
   text-align: center;
+  cursor: pointer;
   transition: all var(--transition-duration) var(--transition-timing-function);
 }
 

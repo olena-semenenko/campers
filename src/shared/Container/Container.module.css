@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 16px;
 
-  @media (max-width: 374.98px) {
+  /* @media (max-width: 374.98px) {
     max-width: 375px;
   }
 
@@ -14,7 +14,7 @@
   @media (min-width: 768px) {
     width: 768px;
     padding: 32px;
-  }
+  } */
 
   @media (min-width: 1440px) {
     width: 1440px;
