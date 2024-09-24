@@ -1,0 +1,11 @@
+.link {
+  color: var(--primary-black-color);
+  font-weight: 500;
+}
+.active {
+  color: var(--button-color);
+}
+.nav {
+  display: flex;
+  gap: 32px;
+}

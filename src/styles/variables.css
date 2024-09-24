@@ -1,0 +1,15 @@
+:root {
+  --primary-black-color: #101828;
+  --primary-grey-color: #475467;
+  --secondary-grey-color: #6c717b;
+  --button-color: #e44848;
+  --button-hover-color: #d84343;
+  --rating-color: #ffc531;
+  --primary-background-color: #ffffff;
+  --inputs-background-color: #f7f7f7;
+  --grey-background-color: #dadde1;
+  --badgets-background-color: #f2f4f7;
+  --transition-duration: 0.7s;
+  --transition-timing-function: ease-in-out;
+  --primary-font-family: 'Inter', sans-serif;
+}

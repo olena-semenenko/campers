@@ -1,0 +1,42 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 696px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(/src/img/Hero.jpg) no-repeat center center;
+  background-size: cover;
+}
+.textbox {
+  display: flex;
+  flex-direction: column;
+  padding-left: 64px;
+  font-weight: 600;
+  color: var(--inputs-background-color);
+}
+.title {
+  font-size: 32px;
+}
+.subtitle {
+  font-size: 24px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 173px;
+  height: 56px;
+  font-weight: 500;
+  letter-spacing: -0.5%;
+  font-size: 24px;
+  border-radius: 200px;
+  margin-top: 42px;
+  background-color: var(--button-color);
+  color: var(-primary-background-color);
+  text-align: center;
+  transition: all var(--transition-duration) var(--transition-timing-function);
+}
+
+.button:hover {
+  background-color: var(button-hover-color);
+}
